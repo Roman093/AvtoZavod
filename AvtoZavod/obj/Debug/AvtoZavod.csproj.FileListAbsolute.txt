@@ -1,0 +1,7 @@
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\bin\Debug\AvtoZavod.exe.config
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\bin\Debug\AvtoZavod.exe
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\bin\Debug\AvtoZavod.pdb
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\obj\Debug\AvtoZavod.csprojAssemblyReference.cache
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\obj\Debug\AvtoZavod.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\obj\Debug\AvtoZavod.exe
+C:\Users\Тимофей\source\repos\AvtoZavod\AvtoZavod\obj\Debug\AvtoZavod.pdb
